@@ -1,4 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+## Name : Nihil kk
+## Date : 22-04-2024
+## Register Number : 2122211223003
+## Department : INFORMATION TECHONOLOGY
 
 ### Aim :
       To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
@@ -35,8 +39,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
 
-### Program : 
-DART studio screen shots for linear interpolation 
+### Program :
+![image](https://github.com/vasanthkumarch/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/118120621/234d3d54-14fc-4ad3-9964-3bd6d0699d1c)
+![image](https://github.com/vasanthkumarch/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/118120621/756d38cf-fe68-4365-9803-16581f3c27e8)
+### Robot movements
+![7r3](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/788b197a-fa30-44fd-bff3-bf8e646c0e2a)
+
+![7r4](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/8a339023-c1de-46db-aed1-008aa84a208b)
+
+![7r5](https://github.com/Prajin19/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/144979377/ee7e6834-2639-40ff-9127-5a4a23d19605)
 
 
 
@@ -46,7 +57,6 @@ DART studio screen shots for linear interpolation
 
 
 
-DART studio screen shots for joint interpolation 
 
 
 
@@ -55,7 +65,13 @@ DART studio screen shots for joint interpolation
 
 
 
-### Robot movements 
+
+
+
+
+
+
+
 
 
 
@@ -71,3 +87,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+A program is developed for understanding linear and joint interpolation of industrial manipulator and is ran sucessfully.
